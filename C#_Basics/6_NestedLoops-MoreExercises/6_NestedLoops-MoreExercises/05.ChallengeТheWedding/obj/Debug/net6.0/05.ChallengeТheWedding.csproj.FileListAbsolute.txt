@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\net6.0\05.ChallengeТheWedding.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\net6.0\05.ChallengeТheWedding.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\net6.0\05.ChallengeТheWedding.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\net6.0\05.ChallengeТheWedding.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\net6.0\05.ChallengeТheWedding.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\refint\05.ChallengeТheWedding.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\05.ChallengeТheWedding.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\net6.0\ref\05.ChallengeТheWedding.dll

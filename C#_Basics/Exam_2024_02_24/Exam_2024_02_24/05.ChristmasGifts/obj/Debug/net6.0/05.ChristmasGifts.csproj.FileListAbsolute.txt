@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\bin\Debug\net6.0\05.ChristmasGifts.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\bin\Debug\net6.0\05.ChristmasGifts.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\bin\Debug\net6.0\05.ChristmasGifts.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\bin\Debug\net6.0\05.ChristmasGifts.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\bin\Debug\net6.0\05.ChristmasGifts.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\refint\05.ChristmasGifts.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\05.ChristmasGifts.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\05.ChristmasGifts\obj\Debug\net6.0\ref\05.ChristmasGifts.dll

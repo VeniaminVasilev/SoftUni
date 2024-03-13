@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\bin\Debug\net6.0\10.MultiplyBy2.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\refint\10.MultiplyBy2.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\10.MultiplyBy2.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\10.MultiplyBy2\obj\Debug\net6.0\ref\10.MultiplyBy2.dll

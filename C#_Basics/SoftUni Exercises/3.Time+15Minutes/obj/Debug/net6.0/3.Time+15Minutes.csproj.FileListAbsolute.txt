@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\bin\Debug\net6.0\3.Time+15Minutes.exe
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\bin\Debug\net6.0\3.Time+15Minutes.deps.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\bin\Debug\net6.0\3.Time+15Minutes.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\bin\Debug\net6.0\3.Time+15Minutes.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\bin\Debug\net6.0\3.Time+15Minutes.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\refint\3.Time+15Minutes.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\3.Time+15Minutes.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\3.Time+15Minutes\obj\Debug\net6.0\ref\3.Time+15Minutes.dll

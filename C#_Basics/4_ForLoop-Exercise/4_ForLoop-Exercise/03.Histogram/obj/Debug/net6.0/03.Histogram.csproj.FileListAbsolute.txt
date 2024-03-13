@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\bin\Debug\net6.0\03.Histogram.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\refint\03.Histogram.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\03.Histogram.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\03.Histogram\obj\Debug\net6.0\ref\03.Histogram.dll

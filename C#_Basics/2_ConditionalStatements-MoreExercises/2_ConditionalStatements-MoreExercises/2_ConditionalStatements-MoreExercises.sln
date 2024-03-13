@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FuelTank", "07.FuelTank\07.FuelTank.csproj", "{582FEDDA-8E0C-4088-8BD2-25150E7DA3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.FuelTank-Part2", "08.FuelTank-Part2\08.FuelTank-Part2.csproj", "{E95459EC-61EA-481F-9EB8-0EEB8CC1208D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582FEDDA-8E0C-4088-8BD2-25150E7DA3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582FEDDA-8E0C-4088-8BD2-25150E7DA3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582FEDDA-8E0C-4088-8BD2-25150E7DA3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582FEDDA-8E0C-4088-8BD2-25150E7DA3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95459EC-61EA-481F-9EB8-0EEB8CC1208D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95459EC-61EA-481F-9EB8-0EEB8CC1208D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95459EC-61EA-481F-9EB8-0EEB8CC1208D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95459EC-61EA-481F-9EB8-0EEB8CC1208D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD74BD78-F9BF-4FD3-A705-6AC6D712A104}
+	EndGlobalSection
+EndGlobal

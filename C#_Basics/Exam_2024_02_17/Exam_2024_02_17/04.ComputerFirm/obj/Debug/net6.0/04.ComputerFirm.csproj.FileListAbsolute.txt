@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\bin\Debug\net6.0\04.ComputerFirm.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\bin\Debug\net6.0\04.ComputerFirm.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\bin\Debug\net6.0\04.ComputerFirm.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\bin\Debug\net6.0\04.ComputerFirm.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\bin\Debug\net6.0\04.ComputerFirm.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\refint\04.ComputerFirm.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\04.ComputerFirm.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\04.ComputerFirm\obj\Debug\net6.0\ref\04.ComputerFirm.dll

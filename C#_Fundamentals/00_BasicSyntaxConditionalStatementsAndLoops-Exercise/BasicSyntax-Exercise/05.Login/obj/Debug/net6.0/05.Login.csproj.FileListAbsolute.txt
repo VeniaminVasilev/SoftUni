@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\bin\Debug\net6.0\05.Login.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\bin\Debug\net6.0\05.Login.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\bin\Debug\net6.0\05.Login.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\bin\Debug\net6.0\05.Login.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\bin\Debug\net6.0\05.Login.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\refint\05.Login.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\05.Login.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\05.Login\obj\Debug\net6.0\ref\05.Login.dll

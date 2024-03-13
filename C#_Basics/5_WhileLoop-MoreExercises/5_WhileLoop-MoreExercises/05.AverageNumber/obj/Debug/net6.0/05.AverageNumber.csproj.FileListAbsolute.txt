@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.exe
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.deps.json
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.dll
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\bin\Debug\net6.0\05.AverageNumber.pdb
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.dll
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\refint\05.AverageNumber.dll
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.pdb
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\05.AverageNumber.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\5_WhileLoop-MoreExercises\5_WhileLoop-MoreExercises\05.AverageNumber\obj\Debug\net6.0\ref\05.AverageNumber.dll

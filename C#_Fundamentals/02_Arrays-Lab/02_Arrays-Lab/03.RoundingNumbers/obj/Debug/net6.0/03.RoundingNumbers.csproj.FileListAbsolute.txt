@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.exe
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\refint\03.RoundingNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\03.RoundingNumbers\obj\Debug\net6.0\ref\03.RoundingNumbers.dll

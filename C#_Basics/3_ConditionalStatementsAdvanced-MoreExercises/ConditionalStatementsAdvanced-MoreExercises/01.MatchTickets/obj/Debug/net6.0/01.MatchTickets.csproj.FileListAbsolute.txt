@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\bin\Debug\net6.0\01.MatchTickets.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\refint\01.MatchTickets.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\01.MatchTickets.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\01.MatchTickets\obj\Debug\net6.0\ref\01.MatchTickets.dll

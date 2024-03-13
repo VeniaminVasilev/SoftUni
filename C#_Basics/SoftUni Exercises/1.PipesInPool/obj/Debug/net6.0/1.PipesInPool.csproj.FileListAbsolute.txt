@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\bin\Debug\net6.0\1.PipesInPool.exe
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\bin\Debug\net6.0\1.PipesInPool.deps.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\bin\Debug\net6.0\1.PipesInPool.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\bin\Debug\net6.0\1.PipesInPool.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\bin\Debug\net6.0\1.PipesInPool.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\refint\1.PipesInPool.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\1.PipesInPool.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\1.PipesInPool\obj\Debug\net6.0\ref\1.PipesInPool.dll

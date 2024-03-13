@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\bin\Debug\net6.0\02.FamilyTrip.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\refint\02.FamilyTrip.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\02.FamilyTrip.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\02.FamilyTrip\obj\Debug\net6.0\ref\02.FamilyTrip.dll

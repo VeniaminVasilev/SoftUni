@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\bin\Debug\net6.0\05.BestPlayer.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\refint\05.BestPlayer.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\05.BestPlayer.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\05.BestPlayer\obj\Debug\net6.0\ref\05.BestPlayer.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\net6.0\04.PersonalTitles.exe
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\net6.0\04.PersonalTitles.deps.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\net6.0\04.PersonalTitles.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\net6.0\04.PersonalTitles.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\bin\Debug\net6.0\04.PersonalTitles.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\refint\04.PersonalTitles.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\04.PersonalTitles.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\04.PersonalTitles\obj\Debug\net6.0\ref\04.PersonalTitles.dll

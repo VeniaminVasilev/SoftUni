@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.exe
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\refint\02.CommonElements.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\02.CommonElements\obj\Debug\net6.0\ref\02.CommonElements.dll

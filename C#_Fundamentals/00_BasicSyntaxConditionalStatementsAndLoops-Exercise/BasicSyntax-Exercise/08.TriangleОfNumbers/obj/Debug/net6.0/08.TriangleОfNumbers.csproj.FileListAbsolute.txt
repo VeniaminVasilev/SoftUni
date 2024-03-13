@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\bin\Debug\net6.0\08.TriangleОfNumbers.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\bin\Debug\net6.0\08.TriangleОfNumbers.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\bin\Debug\net6.0\08.TriangleОfNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\bin\Debug\net6.0\08.TriangleОfNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\bin\Debug\net6.0\08.TriangleОfNumbers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\refint\08.TriangleОfNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\08.TriangleОfNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\08.TriangleОfNumbers\obj\Debug\net6.0\ref\08.TriangleОfNumbers.dll

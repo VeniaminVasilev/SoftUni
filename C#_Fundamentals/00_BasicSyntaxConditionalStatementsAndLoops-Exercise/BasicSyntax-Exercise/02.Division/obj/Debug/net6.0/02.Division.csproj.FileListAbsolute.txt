@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\bin\Debug\net6.0\02.Division.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\bin\Debug\net6.0\02.Division.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\bin\Debug\net6.0\02.Division.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\bin\Debug\net6.0\02.Division.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\bin\Debug\net6.0\02.Division.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\refint\02.Division.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\02.Division.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\02.Division\obj\Debug\net6.0\ref\02.Division.dll

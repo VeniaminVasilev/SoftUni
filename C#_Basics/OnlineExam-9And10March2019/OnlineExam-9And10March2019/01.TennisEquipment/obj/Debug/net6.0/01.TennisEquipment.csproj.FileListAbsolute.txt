@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\bin\Debug\net6.0\01.TennisEquipment.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\bin\Debug\net6.0\01.TennisEquipment.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\bin\Debug\net6.0\01.TennisEquipment.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\bin\Debug\net6.0\01.TennisEquipment.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\bin\Debug\net6.0\01.TennisEquipment.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\refint\01.TennisEquipment.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\01.TennisEquipment.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.TennisEquipment\obj\Debug\net6.0\ref\01.TennisEquipment.dll

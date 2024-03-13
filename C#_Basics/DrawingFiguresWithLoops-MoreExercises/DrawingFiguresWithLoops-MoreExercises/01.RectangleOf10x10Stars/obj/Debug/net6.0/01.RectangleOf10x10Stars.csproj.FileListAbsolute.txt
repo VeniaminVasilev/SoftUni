@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net6.0\01.RectangleOf10x10Stars.exe
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net6.0\01.RectangleOf10x10Stars.deps.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net6.0\01.RectangleOf10x10Stars.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net6.0\01.RectangleOf10x10Stars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\bin\Debug\net6.0\01.RectangleOf10x10Stars.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\refint\01.RectangleOf10x10Stars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\01.RectangleOf10x10Stars.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\01.RectangleOf10x10Stars\obj\Debug\net6.0\ref\01.RectangleOf10x10Stars.dll

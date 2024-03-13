@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net6.0\03.AnimalType.exe
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net6.0\03.AnimalType.deps.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net6.0\03.AnimalType.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net6.0\03.AnimalType.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\bin\Debug\net6.0\03.AnimalType.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\refint\03.AnimalType.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\03.AnimalType.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\03.AnimalType\obj\Debug\net6.0\ref\03.AnimalType.dll

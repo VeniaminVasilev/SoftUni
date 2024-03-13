@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\bin\Debug\net6.0\01.NumberPyramid.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\refint\01.NumberPyramid.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\01.NumberPyramid.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\01.NumberPyramid\obj\Debug\net6.0\ref\01.NumberPyramid.dll

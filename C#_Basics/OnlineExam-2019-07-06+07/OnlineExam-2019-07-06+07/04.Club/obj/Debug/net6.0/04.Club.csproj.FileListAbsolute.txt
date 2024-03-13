@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\bin\Debug\net6.0\04.Club.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\bin\Debug\net6.0\04.Club.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\bin\Debug\net6.0\04.Club.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\bin\Debug\net6.0\04.Club.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\bin\Debug\net6.0\04.Club.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\refint\04.Club.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\04.Club.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Club\obj\Debug\net6.0\ref\04.Club.dll

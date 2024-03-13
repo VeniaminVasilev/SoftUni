@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\bin\Debug\net6.0\06.GoldMine.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\bin\Debug\net6.0\06.GoldMine.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\bin\Debug\net6.0\06.GoldMine.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\bin\Debug\net6.0\06.GoldMine.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\bin\Debug\net6.0\06.GoldMine.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\refint\06.GoldMine.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\06.GoldMine.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\06.GoldMine\obj\Debug\net6.0\ref\06.GoldMine.dll

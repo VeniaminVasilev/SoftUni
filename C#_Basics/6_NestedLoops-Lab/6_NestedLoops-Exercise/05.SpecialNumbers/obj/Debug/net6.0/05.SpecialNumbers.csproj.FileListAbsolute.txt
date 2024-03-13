@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\net6.0\05.SpecialNumbers.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\refint\05.SpecialNumbers.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\05.SpecialNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\net6.0\ref\05.SpecialNumbers.dll

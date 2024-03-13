@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.exe
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.deps.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\net6.0\12.TradeCommissions.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\refint\12.TradeCommissions.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\12.TradeCommissions.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\net6.0\ref\12.TradeCommissions.dll

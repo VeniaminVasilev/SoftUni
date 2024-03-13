@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\bin\Debug\net6.0\6.WorldSwimmingRecord.exe
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\bin\Debug\net6.0\6.WorldSwimmingRecord.deps.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\bin\Debug\net6.0\6.WorldSwimmingRecord.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\bin\Debug\net6.0\6.WorldSwimmingRecord.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\bin\Debug\net6.0\6.WorldSwimmingRecord.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\refint\6.WorldSwimmingRecord.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\6.WorldSwimmingRecord.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\6.WorldSwimmingRecord\obj\Debug\net6.0\ref\6.WorldSwimmingRecord.dll

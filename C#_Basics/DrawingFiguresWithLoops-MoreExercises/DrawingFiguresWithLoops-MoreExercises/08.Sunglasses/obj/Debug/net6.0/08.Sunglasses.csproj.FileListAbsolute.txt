@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net6.0\08.Sunglasses.exe
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net6.0\08.Sunglasses.deps.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net6.0\08.Sunglasses.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net6.0\08.Sunglasses.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\bin\Debug\net6.0\08.Sunglasses.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\refint\08.Sunglasses.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\08.Sunglasses.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\08.Sunglasses\obj\Debug\net6.0\ref\08.Sunglasses.dll

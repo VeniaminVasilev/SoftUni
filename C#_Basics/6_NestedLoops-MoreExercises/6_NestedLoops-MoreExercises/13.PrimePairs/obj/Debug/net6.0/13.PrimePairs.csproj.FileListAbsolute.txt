@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\bin\Debug\net6.0\13.PrimePairs.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\refint\13.PrimePairs.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\13.PrimePairs.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\13.PrimePairs\obj\Debug\net6.0\ref\13.PrimePairs.dll

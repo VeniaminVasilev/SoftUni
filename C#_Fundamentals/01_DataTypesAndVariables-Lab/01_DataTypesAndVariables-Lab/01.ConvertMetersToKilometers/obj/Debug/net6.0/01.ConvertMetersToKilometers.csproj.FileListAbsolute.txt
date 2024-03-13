@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.exe
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\bin\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\refint\01.ConvertMetersToKilometers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\01.ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\01.ConvertMetersToKilometers\obj\Debug\net6.0\ref\01.ConvertMetersToKilometers.dll

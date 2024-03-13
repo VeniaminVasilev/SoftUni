@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\bin\Debug\net6.0\5.GodzillaVsKong.exe
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\bin\Debug\net6.0\5.GodzillaVsKong.deps.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\bin\Debug\net6.0\5.GodzillaVsKong.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\bin\Debug\net6.0\5.GodzillaVsKong.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\bin\Debug\net6.0\5.GodzillaVsKong.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\refint\5.GodzillaVsKong.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\5.GodzillaVsKong.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\5.GodzillaVsKong\obj\Debug\net6.0\ref\5.GodzillaVsKong.dll

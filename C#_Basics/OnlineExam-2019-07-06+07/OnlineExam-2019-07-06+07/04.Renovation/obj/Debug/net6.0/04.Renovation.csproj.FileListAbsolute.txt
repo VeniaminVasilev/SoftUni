@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\bin\Debug\net6.0\04.Renovation.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\bin\Debug\net6.0\04.Renovation.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\bin\Debug\net6.0\04.Renovation.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\bin\Debug\net6.0\04.Renovation.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\bin\Debug\net6.0\04.Renovation.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\refint\04.Renovation.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\04.Renovation.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\04.Renovation\obj\Debug\net6.0\ref\04.Renovation.dll

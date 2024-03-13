@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\bin\Debug\net6.0\07.SumNumbers.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\refint\07.SumNumbers.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\07.SumNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\07.SumNumbers\obj\Debug\net6.0\ref\07.SumNumbers.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\refint\06.OperationsBetweenNumbers.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\ref\06.OperationsBetweenNumbers.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.exe
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\bin\Debug\net6.0\02.PoundsToDollars.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\refint\02.PoundsToDollars.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\02.PoundsToDollars.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\02.PoundsToDollars\obj\Debug\net6.0\ref\02.PoundsToDollars.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\bin\Debug\net6.0\10.OddEvenSum.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\refint\10.OddEvenSum.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\10.OddEvenSum.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\10.OddEvenSum\obj\Debug\net6.0\ref\10.OddEvenSum.dll

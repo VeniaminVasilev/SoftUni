@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\bin\Debug\net6.0\02.Hospital.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\refint\02.Hospital.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\02.Hospital.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\02.Hospital\obj\Debug\net6.0\ref\02.Hospital.dll

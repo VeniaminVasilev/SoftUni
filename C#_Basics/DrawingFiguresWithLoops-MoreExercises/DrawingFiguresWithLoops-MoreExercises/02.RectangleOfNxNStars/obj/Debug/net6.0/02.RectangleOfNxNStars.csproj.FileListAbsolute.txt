@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\bin\Debug\net6.0\02.RectangleOfNxNStars.exe
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\bin\Debug\net6.0\02.RectangleOfNxNStars.deps.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\bin\Debug\net6.0\02.RectangleOfNxNStars.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\bin\Debug\net6.0\02.RectangleOfNxNStars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\bin\Debug\net6.0\02.RectangleOfNxNStars.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\refint\02.RectangleOfNxNStars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\02.RectangleOfNxNStars.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\02.RectangleOfNxNStars\obj\Debug\net6.0\ref\02.RectangleOfNxNStars.dll

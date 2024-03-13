@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\bin\Debug\net6.0\03.NewHouse.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\refint\03.NewHouse.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\03.NewHouse.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\03.NewHouse\obj\Debug\net6.0\ref\03.NewHouse.dll

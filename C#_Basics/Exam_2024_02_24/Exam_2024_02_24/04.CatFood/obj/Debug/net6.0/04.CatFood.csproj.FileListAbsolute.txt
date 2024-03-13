@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\bin\Debug\net6.0\04.CatFood.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\bin\Debug\net6.0\04.CatFood.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\bin\Debug\net6.0\04.CatFood.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\bin\Debug\net6.0\04.CatFood.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\bin\Debug\net6.0\04.CatFood.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\refint\04.CatFood.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\04.CatFood.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\04.CatFood\obj\Debug\net6.0\ref\04.CatFood.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\bin\Debug\net6.0\01.BasketballEquipment.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\refint\01.BasketballEquipment.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\01.BasketballEquipment.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\01.BasketballEquipment\obj\Debug\net6.0\ref\01.BasketballEquipment.dll

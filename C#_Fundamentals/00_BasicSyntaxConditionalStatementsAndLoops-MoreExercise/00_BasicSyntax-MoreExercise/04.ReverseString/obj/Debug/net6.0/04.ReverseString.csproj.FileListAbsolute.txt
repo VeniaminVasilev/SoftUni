@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\bin\Debug\net6.0\04.ReverseString.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\refint\04.ReverseString.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\04.ReverseString.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\04.ReverseString\obj\Debug\net6.0\ref\04.ReverseString.dll

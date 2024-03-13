@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.exe
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\refint\04.ReverseArrayOfStrings.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Lab\02_Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net6.0\ref\04.ReverseArrayOfStrings.dll

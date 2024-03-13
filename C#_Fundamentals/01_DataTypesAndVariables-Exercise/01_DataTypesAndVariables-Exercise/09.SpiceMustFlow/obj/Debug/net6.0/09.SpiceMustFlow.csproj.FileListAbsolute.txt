@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.exe
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\bin\Debug\net6.0\09.SpiceMustFlow.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\refint\09.SpiceMustFlow.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\09.SpiceMustFlow.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\09.SpiceMustFlow\obj\Debug\net6.0\ref\09.SpiceMustFlow.dll

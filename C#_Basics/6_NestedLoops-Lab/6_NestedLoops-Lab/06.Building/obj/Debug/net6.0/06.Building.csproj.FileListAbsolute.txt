@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\bin\Debug\net6.0\06.Building.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\refint\06.Building.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\06.Building.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\06.Building\obj\Debug\net6.0\ref\06.Building.dll

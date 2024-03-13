@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\bin\Debug\net6.0\05.Messages.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\bin\Debug\net6.0\05.Messages.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\bin\Debug\net6.0\05.Messages.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\bin\Debug\net6.0\05.Messages.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\bin\Debug\net6.0\05.Messages.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\refint\05.Messages.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\05.Messages.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\05.Messages\obj\Debug\net6.0\ref\05.Messages.dll

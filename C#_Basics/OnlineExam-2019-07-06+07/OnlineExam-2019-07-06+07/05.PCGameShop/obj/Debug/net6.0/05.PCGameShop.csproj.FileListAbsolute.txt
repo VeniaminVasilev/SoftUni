@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\bin\Debug\net6.0\05.PCGameShop.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\refint\05.PCGameShop.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\05.PCGameShop.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\05.PCGameShop\obj\Debug\net6.0\ref\05.PCGameShop.dll

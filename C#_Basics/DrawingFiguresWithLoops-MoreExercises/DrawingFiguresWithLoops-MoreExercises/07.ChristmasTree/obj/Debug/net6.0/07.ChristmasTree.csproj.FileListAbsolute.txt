@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net6.0\07.ChristmasTree.exe
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net6.0\07.ChristmasTree.deps.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net6.0\07.ChristmasTree.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net6.0\07.ChristmasTree.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\bin\Debug\net6.0\07.ChristmasTree.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\refint\07.ChristmasTree.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\07.ChristmasTree.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\07.ChristmasTree\obj\Debug\net6.0\ref\07.ChristmasTree.dll

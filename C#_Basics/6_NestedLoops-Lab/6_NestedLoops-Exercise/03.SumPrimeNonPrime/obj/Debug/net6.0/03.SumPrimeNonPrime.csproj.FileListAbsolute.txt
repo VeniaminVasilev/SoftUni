@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\bin\Debug\net6.0\03.SumPrimeNonPrime.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\refint\03.SumPrimeNonPrime.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\03.SumPrimeNonPrime.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Exercise\03.SumPrimeNonPrime\obj\Debug\net6.0\ref\03.SumPrimeNonPrime.dll

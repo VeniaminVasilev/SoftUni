@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\bin\Debug\net6.0\02.MaidenParty.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\refint\02.MaidenParty.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\02.MaidenParty.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_17\Exam_2024_02_17\02.MaidenParty\obj\Debug\net6.0\ref\02.MaidenParty.dll

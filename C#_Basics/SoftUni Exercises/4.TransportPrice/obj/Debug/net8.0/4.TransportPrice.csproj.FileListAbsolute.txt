@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\bin\Debug\net8.0\4.TransportPrice.exe
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\bin\Debug\net8.0\4.TransportPrice.deps.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\bin\Debug\net8.0\4.TransportPrice.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\bin\Debug\net8.0\4.TransportPrice.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\bin\Debug\net8.0\4.TransportPrice.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\refint\4.TransportPrice.dll
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.pdb
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\4.TransportPrice.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\SoftUni Exercises\4.TransportPrice\obj\Debug\net8.0\ref\4.TransportPrice.dll

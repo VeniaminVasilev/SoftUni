@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.exe
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\refint\06.EqualSum.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\06.EqualSum\obj\Debug\net6.0\ref\06.EqualSum.dll

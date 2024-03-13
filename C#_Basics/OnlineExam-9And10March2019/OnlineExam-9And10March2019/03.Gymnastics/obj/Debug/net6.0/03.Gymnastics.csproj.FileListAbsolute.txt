@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\bin\Debug\net6.0\03.Gymnastics.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\refint\03.Gymnastics.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\03.Gymnastics.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-9And10March2019\OnlineExam-9And10March2019\03.Gymnastics\obj\Debug\net6.0\ref\03.Gymnastics.dll

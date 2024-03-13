@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.exe
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.deps.json
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.dll
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\bin\Debug\net6.0\06.MaxNumber.pdb
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.dll
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\refint\06.MaxNumber.dll
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.pdb
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\06.MaxNumber.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\5_While\5_While\06.MaxNumber\obj\Debug\net6.0\ref\06.MaxNumber.dll

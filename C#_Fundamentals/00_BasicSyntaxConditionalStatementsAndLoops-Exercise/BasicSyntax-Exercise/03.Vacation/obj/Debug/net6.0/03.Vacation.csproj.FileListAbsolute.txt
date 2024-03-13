@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\bin\Debug\net6.0\03.Vacation.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\bin\Debug\net6.0\03.Vacation.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\bin\Debug\net6.0\03.Vacation.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\bin\Debug\net6.0\03.Vacation.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\bin\Debug\net6.0\03.Vacation.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\refint\03.Vacation.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\03.Vacation.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\03.Vacation\obj\Debug\net6.0\ref\03.Vacation.dll

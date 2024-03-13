@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net6.0\02.BikeRace.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net6.0\02.BikeRace.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net6.0\02.BikeRace.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net6.0\02.BikeRace.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\bin\Debug\net6.0\02.BikeRace.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\refint\02.BikeRace.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\02.BikeRace.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\02.BikeRace\obj\Debug\net6.0\ref\02.BikeRace.dll

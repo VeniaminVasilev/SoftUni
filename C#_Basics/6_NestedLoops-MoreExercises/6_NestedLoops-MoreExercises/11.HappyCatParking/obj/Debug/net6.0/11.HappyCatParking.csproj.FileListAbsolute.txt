@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\bin\Debug\net6.0\11.HappyCatParking.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\bin\Debug\net6.0\11.HappyCatParking.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\bin\Debug\net6.0\11.HappyCatParking.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\bin\Debug\net6.0\11.HappyCatParking.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\bin\Debug\net6.0\11.HappyCatParking.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\refint\11.HappyCatParking.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\11.HappyCatParking.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\11.HappyCatParking\obj\Debug\net6.0\ref\11.HappyCatParking.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\net6.0\09.PadawanEquipment.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\refint\09.PadawanEquipment.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\09.PadawanEquipment.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Exercise\BasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\net6.0\ref\09.PadawanEquipment.dll

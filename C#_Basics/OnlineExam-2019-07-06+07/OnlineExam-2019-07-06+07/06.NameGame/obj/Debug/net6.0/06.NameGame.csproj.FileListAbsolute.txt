@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\bin\Debug\net6.0\06.NameGame.exe
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\bin\Debug\net6.0\06.NameGame.deps.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\bin\Debug\net6.0\06.NameGame.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\bin\Debug\net6.0\06.NameGame.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\bin\Debug\net6.0\06.NameGame.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\refint\06.NameGame.dll
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.pdb
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\06.NameGame.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\OnlineExam-2019-07-06+07\OnlineExam-2019-07-06+07\06.NameGame\obj\Debug\net6.0\ref\06.NameGame.dll

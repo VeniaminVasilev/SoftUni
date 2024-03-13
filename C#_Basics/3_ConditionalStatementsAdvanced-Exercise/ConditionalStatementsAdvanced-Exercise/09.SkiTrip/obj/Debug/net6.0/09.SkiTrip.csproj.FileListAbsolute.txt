@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\net6.0\09.SkiTrip.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\net6.0\09.SkiTrip.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\net6.0\09.SkiTrip.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\net6.0\09.SkiTrip.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\bin\Debug\net6.0\09.SkiTrip.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\refint\09.SkiTrip.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\09.SkiTrip.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\09.SkiTrip\obj\Debug\net6.0\ref\09.SkiTrip.dll

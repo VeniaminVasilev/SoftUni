@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\bin\Debug\net6.0\09.LeftAndRightSum.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\refint\09.LeftAndRightSum.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\09.LeftAndRightSum.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\09.LeftAndRightSum\obj\Debug\net6.0\ref\09.LeftAndRightSum.dll

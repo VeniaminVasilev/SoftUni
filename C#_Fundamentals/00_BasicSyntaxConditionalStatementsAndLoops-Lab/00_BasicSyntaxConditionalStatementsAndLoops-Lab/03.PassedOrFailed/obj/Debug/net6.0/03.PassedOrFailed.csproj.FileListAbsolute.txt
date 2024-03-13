@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\bin\Debug\net6.0\03.PassedOrFailed.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\bin\Debug\net6.0\03.PassedOrFailed.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\bin\Debug\net6.0\03.PassedOrFailed.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\bin\Debug\net6.0\03.PassedOrFailed.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\bin\Debug\net6.0\03.PassedOrFailed.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\refint\03.PassedOrFailed.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\03.PassedOrFailed.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\03.PassedOrFailed\obj\Debug\net6.0\ref\03.PassedOrFailed.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net6.0\09.FruitOrVegetable.exe
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net6.0\09.FruitOrVegetable.deps.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net6.0\09.FruitOrVegetable.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net6.0\09.FruitOrVegetable.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\bin\Debug\net6.0\09.FruitOrVegetable.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\refint\09.FruitOrVegetable.dll
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.pdb
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\09.FruitOrVegetable.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\ConditionalStatementsAdvanced-Lab\09.FruitOrVegetable\obj\Debug\net6.0\ref\09.FruitOrVegetable.dll

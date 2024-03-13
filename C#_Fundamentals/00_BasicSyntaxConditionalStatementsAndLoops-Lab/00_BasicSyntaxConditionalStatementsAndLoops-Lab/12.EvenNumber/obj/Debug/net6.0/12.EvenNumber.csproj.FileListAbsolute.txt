@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\bin\Debug\net6.0\12.EvenNumber.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\refint\12.EvenNumber.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\12.EvenNumber.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-Lab\00_BasicSyntaxConditionalStatementsAndLoops-Lab\12.EvenNumber\obj\Debug\net6.0\ref\12.EvenNumber.dll

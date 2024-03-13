@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.exe
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\bin\Debug\net6.0\10.LowerOrUpper.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\refint\10.LowerOrUpper.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\10.LowerOrUpper.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Lab\01_DataTypesAndVariables-Lab\10.LowerOrUpper\obj\Debug\net6.0\ref\10.LowerOrUpper.dll

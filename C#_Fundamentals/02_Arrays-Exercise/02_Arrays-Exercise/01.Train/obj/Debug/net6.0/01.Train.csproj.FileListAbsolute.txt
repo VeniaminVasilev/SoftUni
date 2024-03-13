@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.exe
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\bin\Debug\net6.0\01.Train.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\refint\01.Train.dll
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\02_Arrays-Exercise\02_Arrays-Exercise\01.Train\obj\Debug\net6.0\ref\01.Train.dll

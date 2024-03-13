@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\bin\Debug\net6.0\06.Oscars.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\bin\Debug\net6.0\06.Oscars.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\bin\Debug\net6.0\06.Oscars.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\bin\Debug\net6.0\06.Oscars.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\bin\Debug\net6.0\06.Oscars.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\refint\06.Oscars.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\06.Oscars.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Exercise\4_ForLoop-Exercise\06.Oscars\obj\Debug\net6.0\ref\06.Oscars.dll

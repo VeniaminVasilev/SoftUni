@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\bin\Debug\net6.0\08.Point.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\bin\Debug\net6.0\08.Point.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\bin\Debug\net6.0\08.Point.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\bin\Debug\net6.0\08.Point.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\bin\Debug\net6.0\08.Point.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\refint\08.Point.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\08.Point.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\08.Point\obj\Debug\net6.0\ref\08.Point.dll

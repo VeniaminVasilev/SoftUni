@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\bin\Debug\net6.0\04.SumOfTwoNumbers.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\refint\04.SumOfTwoNumbers.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\04.SumOfTwoNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-Lab\6_NestedLoops-Lab\04.SumOfTwoNumbers\obj\Debug\net6.0\ref\04.SumOfTwoNumbers.dll

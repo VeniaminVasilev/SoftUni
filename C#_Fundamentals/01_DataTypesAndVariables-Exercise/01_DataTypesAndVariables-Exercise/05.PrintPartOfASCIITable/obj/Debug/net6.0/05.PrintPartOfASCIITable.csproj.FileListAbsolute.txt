@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.exe
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\bin\Debug\net6.0\05.PrintPartOfASCIITable.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\refint\05.PrintPartOfASCIITable.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\05.PrintPartOfASCIITable.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\05.PrintPartOfASCIITable\obj\Debug\net6.0\ref\05.PrintPartOfASCIITable.dll

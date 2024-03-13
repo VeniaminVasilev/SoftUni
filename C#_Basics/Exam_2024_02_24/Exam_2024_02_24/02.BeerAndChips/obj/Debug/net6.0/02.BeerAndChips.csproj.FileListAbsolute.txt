@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\bin\Debug\net6.0\02.BeerAndChips.exe
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\bin\Debug\net6.0\02.BeerAndChips.deps.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\bin\Debug\net6.0\02.BeerAndChips.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\bin\Debug\net6.0\02.BeerAndChips.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\bin\Debug\net6.0\02.BeerAndChips.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\refint\02.BeerAndChips.dll
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.pdb
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\02.BeerAndChips.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\Exam_2024_02_24\Exam_2024_02_24\02.BeerAndChips\obj\Debug\net6.0\ref\02.BeerAndChips.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net6.0\06.RhombusOfStars.exe
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net6.0\06.RhombusOfStars.deps.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net6.0\06.RhombusOfStars.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net6.0\06.RhombusOfStars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\bin\Debug\net6.0\06.RhombusOfStars.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\refint\06.RhombusOfStars.dll
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.pdb
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\06.RhombusOfStars.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\DrawingFiguresWithLoops-MoreExercises\DrawingFiguresWithLoops-MoreExercises\06.RhombusOfStars\obj\Debug\net6.0\ref\06.RhombusOfStars.dll

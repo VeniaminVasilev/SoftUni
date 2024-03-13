@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\net6.0\07.HotelRoom.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\refint\07.HotelRoom.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\07.HotelRoom.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-Exercise\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\net6.0\ref\07.HotelRoom.dll

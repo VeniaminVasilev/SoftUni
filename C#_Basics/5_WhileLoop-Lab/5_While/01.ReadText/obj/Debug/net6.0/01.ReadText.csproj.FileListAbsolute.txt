@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\bin\Debug\net6.0\01.ReadText.exe
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\bin\Debug\net6.0\01.ReadText.deps.json
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\bin\Debug\net6.0\01.ReadText.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\bin\Debug\net6.0\01.ReadText.dll
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\bin\Debug\net6.0\01.ReadText.pdb
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.dll
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\refint\01.ReadText.dll
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.pdb
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\01.ReadText.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\5_While\5_While\01.ReadText\obj\Debug\net6.0\ref\01.ReadText.dll

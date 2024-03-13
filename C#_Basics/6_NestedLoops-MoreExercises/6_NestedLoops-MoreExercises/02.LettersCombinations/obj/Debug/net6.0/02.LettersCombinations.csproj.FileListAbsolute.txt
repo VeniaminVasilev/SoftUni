@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net6.0\02.LettersCombinations.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\refint\02.LettersCombinations.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\02.LettersCombinations.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net6.0\ref\02.LettersCombinations.dll

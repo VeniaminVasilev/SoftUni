@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.exe
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\bin\Debug\net6.0\08.BeerKegs.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\refint\08.BeerKegs.dll
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\08.BeerKegs.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\01_DataTypesAndVariables-Exercise\01_DataTypesAndVariables-Exercise\08.BeerKegs\obj\Debug\net6.0\ref\08.BeerKegs.dll

@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\bin\Debug\net6.0\01.NumbersFrom1To100.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\refint\01.NumbersFrom1To100.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\01.NumbersFrom1To100.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-Lab\4_ForLoop-Lab\01.NumbersFrom1To100\obj\Debug\net6.0\ref\01.NumbersFrom1To100.dll

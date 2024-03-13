@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.exe
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.deps.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\bin\Debug\net6.0\12.TheSongOfTheWheels.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\refint\12.TheSongOfTheWheels.dll
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.pdb
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\12.TheSongOfTheWheels.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\6_NestedLoops-MoreExercises\6_NestedLoops-MoreExercises\12.TheSongOfTheWheels\obj\Debug\net6.0\ref\12.TheSongOfTheWheels.dll

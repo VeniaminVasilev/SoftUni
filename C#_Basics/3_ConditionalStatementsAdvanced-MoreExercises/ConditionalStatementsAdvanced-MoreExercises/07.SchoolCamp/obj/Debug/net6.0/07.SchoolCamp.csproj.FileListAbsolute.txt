@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.exe
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.deps.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\bin\Debug\net6.0\07.SchoolCamp.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\refint\07.SchoolCamp.dll
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.pdb
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\07.SchoolCamp.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\3_ConditionalStatementsAdvanced-MoreExercises\ConditionalStatementsAdvanced-MoreExercises\07.SchoolCamp\obj\Debug\net6.0\ref\07.SchoolCamp.dll

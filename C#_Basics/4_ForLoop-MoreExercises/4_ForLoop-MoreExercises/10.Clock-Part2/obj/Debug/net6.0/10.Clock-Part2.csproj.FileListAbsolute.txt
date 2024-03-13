@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\bin\Debug\net6.0\10.Clock-Part2.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\bin\Debug\net6.0\10.Clock-Part2.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\bin\Debug\net6.0\10.Clock-Part2.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\bin\Debug\net6.0\10.Clock-Part2.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\bin\Debug\net6.0\10.Clock-Part2.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\refint\10.Clock-Part2.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\10.Clock-Part2.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\10.Clock-Part2\obj\Debug\net6.0\ref\10.Clock-Part2.dll

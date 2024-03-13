@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.exe
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.deps.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.runtimeconfig.json
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\bin\Debug\net6.0\08.EqualPairs.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.AssemblyInfo.cs
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\refint\08.EqualPairs.dll
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.pdb
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\08.EqualPairs.genruntimeconfig.cache
+C:\Trainings\SoftUni\Basics\4_ForLoop-MoreExercises\4_ForLoop-MoreExercises\08.EqualPairs\obj\Debug\net6.0\ref\08.EqualPairs.dll

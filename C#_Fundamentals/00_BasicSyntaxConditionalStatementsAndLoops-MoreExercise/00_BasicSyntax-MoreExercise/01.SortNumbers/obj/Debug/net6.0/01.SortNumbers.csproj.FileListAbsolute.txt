@@ -1,0 +1,14 @@
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.exe
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.deps.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.runtimeconfig.json
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\bin\Debug\net6.0\01.SortNumbers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.AssemblyInfo.cs
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\refint\01.SortNumbers.dll
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.pdb
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\01.SortNumbers.genruntimeconfig.cache
+C:\Trainings\SoftUni\Fundamentals_2019\00_BasicSyntaxConditionalStatementsAndLoops-MoreExercise\00_BasicSyntax-MoreExercise\01.SortNumbers\obj\Debug\net6.0\ref\01.SortNumbers.dll
