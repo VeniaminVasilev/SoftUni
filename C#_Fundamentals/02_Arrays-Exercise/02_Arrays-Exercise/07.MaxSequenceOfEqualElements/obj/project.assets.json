@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
+      "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
       "projectName": "07.MaxSequenceOfEqualElements",
-      "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
+      "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
       "packagesPath": "C:\\Users\\veniaminvasilev\\.nuget\\packages\\",
-      "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\07.MaxSequenceOfEqualElements\\obj\\",
+      "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\07.MaxSequenceOfEqualElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veniaminvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",

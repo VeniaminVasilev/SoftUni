@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj": {}
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj": {}
   },
   "projects": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj": {
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
+        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
         "projectName": "04.ArrayRotation",
-        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
+        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
         "packagesPath": "C:\\Users\\veniaminvasilev\\.nuget\\packages\\",
-        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\obj\\",
+        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veniaminvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",

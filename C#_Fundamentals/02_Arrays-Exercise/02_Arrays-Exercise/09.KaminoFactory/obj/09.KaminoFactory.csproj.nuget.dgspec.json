@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj": {}
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj": {}
   },
   "projects": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj": {
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj",
+        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj",
         "projectName": "09.KaminoFactory",
-        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj",
+        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\09.KaminoFactory.csproj",
         "packagesPath": "C:\\Users\\veniaminvasilev\\.nuget\\packages\\",
-        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\obj\\",
+        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\09.KaminoFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veniaminvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",

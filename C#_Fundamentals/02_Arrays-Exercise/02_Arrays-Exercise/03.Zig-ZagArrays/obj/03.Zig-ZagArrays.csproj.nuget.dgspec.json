@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj": {}
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj": {}
   },
   "projects": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj": {
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
+        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
         "projectName": "03.Zig-ZagArrays",
-        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
+        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
         "packagesPath": "C:\\Users\\veniaminvasilev\\.nuget\\packages\\",
-        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\obj\\",
+        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\03.Zig-ZagArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veniaminvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",

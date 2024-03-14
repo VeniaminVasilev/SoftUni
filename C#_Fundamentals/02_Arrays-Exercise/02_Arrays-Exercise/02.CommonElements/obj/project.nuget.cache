@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jfc7Jn4u+0Bk5p2kn6CBXb+3MxbXMpHojpeTSlU11NQbIkPmP2Igql2Pb6NszQEVY5w5QmKx1t4+3yBs+Nu7fA==",
+  "dgSpecHash": "RsAtiIbnwkJfThcGuQVc5NXTAad2X/ERLg1BYxXFmnam5DVJR25BbViET0/tIYDI1zrQUPwdPUeqCOiNn0TbIQ==",
   "success": true,
-  "projectFilePath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\02.CommonElements\\02.CommonElements.csproj",
+  "projectFilePath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\02.CommonElements\\02.CommonElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

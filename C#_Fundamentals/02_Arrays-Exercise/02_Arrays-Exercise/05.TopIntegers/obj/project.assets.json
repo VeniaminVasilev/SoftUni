@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\05.TopIntegers\\05.TopIntegers.csproj",
+      "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\05.TopIntegers\\05.TopIntegers.csproj",
       "projectName": "05.TopIntegers",
-      "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\05.TopIntegers\\05.TopIntegers.csproj",
+      "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\05.TopIntegers\\05.TopIntegers.csproj",
       "packagesPath": "C:\\Users\\veniaminvasilev\\.nuget\\packages\\",
-      "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\05.TopIntegers\\obj\\",
+      "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\05.TopIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veniaminvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",

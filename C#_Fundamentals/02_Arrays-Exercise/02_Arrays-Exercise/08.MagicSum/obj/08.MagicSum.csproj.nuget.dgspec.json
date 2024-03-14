@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj": {}
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj": {}
   },
   "projects": {
-    "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj": {
+    "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj",
+        "projectUniqueName": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj",
         "projectName": "08.MagicSum",
-        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj",
+        "projectPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\08.MagicSum.csproj",
         "packagesPath": "C:\\Users\\veniaminvasilev\\.nuget\\packages\\",
-        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\obj\\",
+        "outputPath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\08.MagicSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veniaminvasilev\\AppData\\Roaming\\NuGet\\NuGet.Config",

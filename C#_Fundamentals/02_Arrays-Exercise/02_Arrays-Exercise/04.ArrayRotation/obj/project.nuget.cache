@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rx715dz0IUC9BFsRWT3pfBIlGXro9gLbFNedW2JFqIBvUTe/NJdyAop00jEq1wsTlj0h2QYZvMWO6TP9HqJbTw==",
+  "dgSpecHash": "TmdAtE4jEaXJxke4P/7W6qlZ4wmaj93rYnwx6CWVPKHi7lEGepbthxWqsz+JrdKA5ZvlgroT9hnYNY6g6ClD6A==",
   "success": true,
-  "projectFilePath": "C:\\Trainings\\SoftUni\\C#_Fundamentals_2019\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
+  "projectFilePath": "C:\\Trainings\\SoftUni\\C#_Fundamentals\\02_Arrays-Exercise\\02_Arrays-Exercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

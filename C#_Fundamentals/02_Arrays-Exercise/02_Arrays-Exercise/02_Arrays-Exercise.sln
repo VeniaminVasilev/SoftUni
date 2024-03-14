@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Train", "01.Train\01.Train.csproj", "{29F3BF66-AC2B-40E1-94D1-6161DDCCAEED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Train", "01.Train\01.Train.csproj", "{29F3BF66-AC2B-40E1-94D1-6161DDCCAEED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CommonElements", "02.CommonElements\02.CommonElements.csproj", "{7EA3C8B9-3923-4EDD-BFDB-CFA9C010BDA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CommonElements", "02.CommonElements\02.CommonElements.csproj", "{7EA3C8B9-3923-4EDD-BFDB-CFA9C010BDA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Zig-ZagArrays", "03.Zig-ZagArrays\03.Zig-ZagArrays.csproj", "{CDC1C9A2-81F5-4683-8863-4E752524F0EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Zig-ZagArrays", "03.Zig-ZagArrays\03.Zig-ZagArrays.csproj", "{CDC1C9A2-81F5-4683-8863-4E752524F0EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ArrayRotation", "04.ArrayRotation\04.ArrayRotation.csproj", "{EEF01A6C-B2FC-475B-B2ED-C78861EB4BE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ArrayRotation", "04.ArrayRotation\04.ArrayRotation.csproj", "{EEF01A6C-B2FC-475B-B2ED-C78861EB4BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TopIntegers", "05.TopIntegers\05.TopIntegers.csproj", "{2811DDE7-0042-4105-9234-E04DB2113546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.TopIntegers", "05.TopIntegers\05.TopIntegers.csproj", "{2811DDE7-0042-4105-9234-E04DB2113546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualSum", "06.EqualSum\06.EqualSum.csproj", "{B7A0CBDB-F70D-4891-9ACC-CE10602338AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EqualSum", "06.EqualSum\06.EqualSum.csproj", "{B7A0CBDB-F70D-4891-9ACC-CE10602338AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MaxSequenceOfEqualElements", "07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements.csproj", "{EE90552A-6832-43C3-ADF6-474939C6DC46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.MaxSequenceOfEqualElements", "07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements.csproj", "{EE90552A-6832-43C3-ADF6-474939C6DC46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MagicSum", "08.MagicSum\08.MagicSum.csproj", "{4A71B576-6C11-46FB-BD7E-416D3EC74D54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MagicSum", "08.MagicSum\08.MagicSum.csproj", "{4A71B576-6C11-46FB-BD7E-416D3EC74D54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.KaminoFactory", "09.KaminoFactory\09.KaminoFactory.csproj", "{E56697C4-33BE-45AA-8C33-D73D89F4B450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.KaminoFactory", "09.KaminoFactory\09.KaminoFactory.csproj", "{E56697C4-33BE-45AA-8C33-D73D89F4B450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.LadyBugs", "10.LadyBugs\10.LadyBugs.csproj", "{74C25C95-BC6B-4622-B4B1-81776F0CC357}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E56697C4-33BE-45AA-8C33-D73D89F4B450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E56697C4-33BE-45AA-8C33-D73D89F4B450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E56697C4-33BE-45AA-8C33-D73D89F4B450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C25C95-BC6B-4622-B4B1-81776F0CC357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C25C95-BC6B-4622-B4B1-81776F0CC357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C25C95-BC6B-4622-B4B1-81776F0CC357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C25C95-BC6B-4622-B4B1-81776F0CC357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
