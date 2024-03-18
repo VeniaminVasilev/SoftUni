@@ -1,4 +1,1 @@
-# Ignore all directories except those containing .cs or .csproj files
-/*
-!**/*.cs
-!**/*.csproj
+
