@@ -247,5 +247,81 @@ namespace VehicleGarage.Tests
             Assert.That(vehicle.BatteryLevel, Is.EqualTo(100));
             Assert.That(vehiclesCharged, Is.EqualTo(1));
         }
+
+        [Test]
+        public void ChargeVehicles_ReturnsZero_WhenNoVehiclesCharged()
+        {
+            // Arrange
+            int capacity = 100;
+            Garage garage = new Garage(capacity);
+
+            // Act
+            int vehiclesCharged = garage.ChargeVehicles(100);
+
+            // Assert
+            Assert.That(vehiclesCharged, Is.EqualTo(0));
+        }
+
+        [Test]
+        public void ChargeVehicles_ForVehicles_LessThanOrEqual10()
+        {
+            // Arrange
+            int capacity = 100;
+            Garage garage = new Garage(capacity);
+            string brand = "Brand";
+            string model = "Model";
+            string licensePlateNumber = "LicensePlateNumber";
+            string licensePlateNumber2 = "LicensePlateNumber2";
+            Vehicle vehicle = new Vehicle(brand, model, licensePlateNumber);
+            Vehicle vehicle2 = new Vehicle(brand, model, licensePlateNumber2);
+            garage.AddVehicle(vehicle);
+            garage.AddVehicle(vehicle2);
+            int batteryDrainage = 90;
+            garage.DriveVehicle(licensePlateNumber, batteryDrainage, false);
+
+            // Act
+            int vehiclesCharged = garage.ChargeVehicles(10);
+
+            // Assert
+            Assert.That(vehicle.BatteryLevel, Is.EqualTo(100));
+            Assert.That(vehiclesCharged, Is.EqualTo(1));
+        }
+
+        [Test]
+        public void RepairVehicles_Success()
+        {
+            // Arrange
+            int capacity = 100;
+            Garage garage = new Garage(capacity);
+            string brand = "Brand";
+            string model = "Model";
+            string licensePlateNumber = "LicensePlateNumber";
+            Vehicle vehicle = new Vehicle(brand, model, licensePlateNumber);
+            garage.AddVehicle(vehicle);
+            int batteryDrainage = 90;
+            garage.DriveVehicle(licensePlateNumber, batteryDrainage, true);
+
+            // Act
+            Assert.That(vehicle.IsDamaged, Is.True);
+            string result = garage.RepairVehicles();
+
+            // Assert
+            Assert.That(vehicle.IsDamaged, Is.False);
+            Assert.That(result, Is.EqualTo("Vehicles repaired: 1"));
+        }
+
+        [Test]
+        public void RepairVehicles_WhenNoRepairedVehicles()
+        {
+            // Arrange
+            int capacity = 100;
+            Garage garage = new Garage(capacity);
+
+            // Act
+            string result = garage.RepairVehicles();
+
+            // Assert
+            Assert.That(result, Is.EqualTo("Vehicles repaired: 0"));
+        }
     }
 }
