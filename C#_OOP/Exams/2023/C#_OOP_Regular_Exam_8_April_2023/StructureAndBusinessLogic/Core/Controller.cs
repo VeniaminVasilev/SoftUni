@@ -4,6 +4,8 @@ using RobotService.Models.Contracts;
 using RobotService.Repositories;
 using RobotService.Repositories.Contracts;
 using RobotService.Utilities.Messages;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace RobotService.Core
 {
@@ -41,12 +43,66 @@ namespace RobotService.Core
 
         public string CreateSupplement(string typeName)
         {
-            throw new System.NotImplementedException();
+            if (typeName != nameof(SpecializedArm) && typeName != nameof(LaserRadar))
+            {
+                return string.Format(OutputMessages.SupplementCannotBeCreated, typeName);
+            }
+
+            ISupplement supplement;
+            if (typeName == nameof(SpecializedArm))
+            {
+                supplement = new SpecializedArm();
+                supplements.AddNew(supplement);
+            }
+            else if (typeName == nameof(LaserRadar))
+            {
+                supplement = new LaserRadar();
+                supplements.AddNew(supplement);
+            }
+            return string.Format(OutputMessages.SupplementCreatedSuccessfully, typeName);
         }
 
         public string PerformService(string serviceName, int intefaceStandard, int totalPowerNeeded)
         {
-            throw new System.NotImplementedException();
+            List<IRobot> robotsList = robots
+                .Models()
+                .Where(r => r.InterfaceStandards.Contains(intefaceStandard))
+                .OrderByDescending(r => r.BatteryLevel)
+                .ToList();
+                
+            if (robotsList.Count == 0)
+            {
+                return string.Format(OutputMessages.UnableToPerform, intefaceStandard);
+            }
+
+            int availablePower = robotsList.Sum(r => r.BatteryLevel);
+
+            if (availablePower < totalPowerNeeded)
+            {
+                return string.Format(OutputMessages.MorePowerNeeded, serviceName, (totalPowerNeeded - availablePower));
+            }
+
+            int usedRobotsCount = 0;
+
+            for (int i = 0; i < robotsList.Count; i++)
+            {
+                IRobot currentRobot = robotsList[i];
+
+                if (currentRobot.BatteryLevel >= totalPowerNeeded)
+                {
+                    currentRobot.ExecuteService(totalPowerNeeded);
+                    usedRobotsCount++;
+                    break;
+                }
+                else if (currentRobot.BatteryLevel < totalPowerNeeded)
+                {
+                    totalPowerNeeded -= currentRobot.BatteryLevel;
+                    currentRobot.ExecuteService(currentRobot.BatteryLevel);
+                    usedRobotsCount++;
+                }
+            }
+
+            return string.Format(OutputMessages.PerformedSuccessfully, serviceName, usedRobotsCount);
         }
 
         public string Report()
@@ -61,7 +117,26 @@ namespace RobotService.Core
 
         public string UpgradeRobot(string model, string supplementTypeName)
         {
-            throw new System.NotImplementedException();
+            List<ISupplement> listSupplements = supplements.Models().ToList();
+            ISupplement firstSupplement = listSupplements.FirstOrDefault(s => s.GetType().Name == supplementTypeName);
+            int interfaceStandard = firstSupplement.InterfaceStandard;
+
+            List<IRobot> robotsForUpgrade = robots
+                .Models()
+                .Where(r => !r.InterfaceStandards.Contains(interfaceStandard))
+                .Where(r => r.Model == model)
+                .ToList();
+
+            if (robotsForUpgrade.Count == 0)
+            {
+                return string.Format(OutputMessages.AllModelsUpgraded, model);
+            }
+
+            IRobot robotForUpgrade = robotsForUpgrade.First();
+            robotForUpgrade.InstallSupplement(firstSupplement);
+            supplements.RemoveByName(supplementTypeName);
+
+            return string.Format(OutputMessages.UpgradeSuccessful, model, supplementTypeName);
         }
     }
 }
