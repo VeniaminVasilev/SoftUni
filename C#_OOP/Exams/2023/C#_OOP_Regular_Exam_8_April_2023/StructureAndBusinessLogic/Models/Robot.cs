@@ -103,7 +103,7 @@ namespace RobotService.Models
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"{this.GetType().Name} {this.Model}");
+            sb.AppendLine($"{this.GetType().Name} {this.Model}:");
             sb.AppendLine($"--Maximum battery capacity: {this.BatteryCapacity}");
             sb.AppendLine($"--Current battery level: {this.BatteryLevel}");
 
@@ -113,7 +113,7 @@ namespace RobotService.Models
             }
             else
             {
-                sb.AppendLine($"--Supplements installed: {string.Join(", ", this.InterfaceStandards)}");
+                sb.AppendLine($"--Supplements installed: {string.Join(" ", this.InterfaceStandards)}");
             }
 
             return sb.ToString().TrimEnd();
