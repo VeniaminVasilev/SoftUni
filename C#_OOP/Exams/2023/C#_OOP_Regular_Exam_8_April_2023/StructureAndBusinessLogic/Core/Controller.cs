@@ -6,6 +6,7 @@ using RobotService.Repositories.Contracts;
 using RobotService.Utilities.Messages;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 
 namespace RobotService.Core
 {
@@ -107,12 +108,36 @@ namespace RobotService.Core
 
         public string Report()
         {
-            throw new System.NotImplementedException();
+            StringBuilder sb = new StringBuilder();
+
+            List<IRobot> orderedRobots = this.robots
+                .Models()
+                .OrderByDescending(r => r.BatteryLevel)
+                .ThenBy(r => r.BatteryCapacity)
+                .ToList();
+
+            foreach (IRobot robot in orderedRobots)
+            {
+                sb.AppendLine(robot.ToString());
+            }
+
+            return sb.ToString().TrimEnd();
         }
 
         public string RobotRecovery(string model, int minutes)
         {
-            throw new System.NotImplementedException();
+            List<IRobot> robotsToBeFed = robots
+                .Models()
+                .Where(r => r.Model == model)
+                .Where(r => r.BatteryLevel < (r.BatteryCapacity / 2))
+                .ToList();
+
+            foreach (IRobot robot in robotsToBeFed)
+            {
+                robot.Eating(minutes);
+            }
+
+            return string.Format(OutputMessages.RobotsFed, robotsToBeFed.Count);
         }
 
         public string UpgradeRobot(string model, string supplementTypeName)
