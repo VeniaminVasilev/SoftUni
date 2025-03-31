@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Xml.Linq;
 using UniversityCompetition.Core.Contracts;
 using UniversityCompetition.Models;
 using UniversityCompetition.Models.Contracts;
@@ -89,12 +92,69 @@ namespace UniversityCompetition.Core
 
         public string ApplyToUniversity(string studentName, string universityName)
         {
-            throw new System.NotImplementedException();
+            string firstName = studentName.Split(' ')[0];
+            string lastName = studentName.Split(' ')[1];
+
+            if (students.FindByName(studentName) == null)
+            {
+                return string.Format(OutputMessages.StudentNotRegitered, firstName, lastName);
+            }
+
+            if (universities.FindByName(universityName) == null)
+            {
+                return string.Format(OutputMessages.UniversityNotRegitered, universityName);
+            }
+
+            IStudent student = students.FindByName(studentName);
+            IUniversity university = universities.FindByName(universityName);
+
+            bool examNotCovered = false;
+
+            foreach (int exam in university.RequiredSubjects)
+            {
+                if (!student.CoveredExams.Contains(exam))
+                {
+                    examNotCovered = true;
+                    break;
+                }
+            }
+
+            if (examNotCovered == true)
+            {
+                return string.Format(OutputMessages.StudentHasToCoverExams, studentName, universityName);
+            }
+
+            if (student.University.Name == universityName)
+            {
+                return string.Format(OutputMessages.StudentAlreadyJoined, student.FirstName, student.LastName, universityName);
+            }
+
+            student.JoinUniversity(university);
+            return string.Format(OutputMessages.StudentSuccessfullyJoined, student.FirstName, student.LastName, universityName);
         }
 
         public string TakeExam(int studentId, int subjectId)
         {
-            throw new System.NotImplementedException();
+            if (students.FindById(studentId) == null)
+            {
+                return string.Format(OutputMessages.InvalidStudentId);
+            }
+
+            if (subjects.FindById(subjectId) == null)
+            {
+                return string.Format(OutputMessages.InvalidSubjectId);
+            }
+
+            IStudent student = students.FindById(studentId);
+            ISubject subject = subjects.FindById(subjectId);
+
+            if (student.CoveredExams.Contains(subjectId))
+            {
+                return string.Format(OutputMessages.StudentAlreadyCoveredThatExam, student.FirstName, student.LastName, subject.Name);
+            }
+
+            student.CoverExam(subject);
+            return string.Format(OutputMessages.StudentSuccessfullyCoveredExam, student.FirstName, student.LastName, subject.Name);
         }
 
         public string UniversityReport(int universityId)
