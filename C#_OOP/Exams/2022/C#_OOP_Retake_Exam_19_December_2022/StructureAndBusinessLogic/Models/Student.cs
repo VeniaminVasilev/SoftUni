@@ -18,6 +18,8 @@ namespace UniversityCompetition.Models
             this.Id = studentId;
             this.FirstName = firstName;
             this.LastName = lastName;
+            this._coveredExams = new List<int>();
+            this._university = null;
         }
 
         public int Id

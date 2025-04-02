@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Xml.Linq;
 using UniversityCompetition.Core.Contracts;
 using UniversityCompetition.Models;
@@ -124,9 +125,12 @@ namespace UniversityCompetition.Core
                 return string.Format(OutputMessages.StudentHasToCoverExams, studentName, universityName);
             }
 
-            if (student.University.Name == universityName)
+            if (student.University != null)
             {
-                return string.Format(OutputMessages.StudentAlreadyJoined, student.FirstName, student.LastName, universityName);
+                if (student.University.Name == universityName)
+                {
+                    return string.Format(OutputMessages.StudentAlreadyJoined, student.FirstName, student.LastName, universityName);
+                }
             }
 
             student.JoinUniversity(university);
@@ -159,7 +163,17 @@ namespace UniversityCompetition.Core
 
         public string UniversityReport(int universityId)
         {
-            throw new System.NotImplementedException();
+            IUniversity university = universities.FindById(universityId);
+
+            int studentsCount = students.Models.Where(s => s.University == university).Count();
+
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"*** {university.Name} ***");
+            sb.AppendLine($"Profile: {university.Category}");
+            sb.AppendLine($"Students admitted: {studentsCount}");
+            sb.AppendLine($"University vacancy: {university.Capacity - studentsCount}");
+
+            return sb.ToString().TrimEnd();
         }
     }
 }
